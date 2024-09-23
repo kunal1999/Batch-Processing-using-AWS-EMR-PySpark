@@ -22,7 +22,7 @@ The data pipeline consists of the following steps:
 
 ## Architecture
 
-![Architecture Diagram](Architecture/Screenshot_2024-09-23_163421.png)
+![Architecture Diagram](Architecture/Screenshot 2024-09-23 163421.png)
 
 
 ## Technologies Used
