@@ -19,9 +19,11 @@ The data pipeline consists of the following steps:
    - Store the processed data back into S3 in a different folder.
 3. **Querying**: Use Athena to query the processed data in S3 by creating a table with the relevant schema and executing ANSI SQL queries.
 
+
 ## Architecture
 
-![Architecture Diagram](Architecture/Screenshot 2024-09-23 163421.png)
+![Architecture Diagram](Architecture/Screenshot_2024-09-23_163421.png)
+
 
 ## Technologies Used
 
